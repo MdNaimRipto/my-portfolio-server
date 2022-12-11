@@ -1,0 +1,357 @@
+[
+    {
+        "id": "1",
+        "name": "Recycle Hub",
+        "projectFor": "Mern-Stack Project",
+        "screenshots": [
+            {
+                "id": "01",
+                "img": "https://i.ibb.co/HXzy3YG/recycle-hub-ss1.png"
+            },
+            {
+                "id": "02",
+                "img": "https://i.ibb.co/q07CkZW/recycle-hub-ss2.png"
+            },
+            {
+                "id": "03",
+                "img": "https://i.ibb.co/crPWTYy/recycle-hub-ss3.png"
+            }
+        ],
+        "details": [
+            {
+                "id": "01",
+                "feature": "User can choose their role seller or buyer"
+            },
+            {
+                "id": "02",
+                "feature": "Admin can control users activity"
+            },
+            {
+                "id": "03",
+                "feature": "Seller can advertise their cars"
+            },
+            {
+                "id": "04",
+                "feature": "Buyers payment method implemented with stripe"
+            },
+            {
+                "id": "05",
+                "feature": "Authentication completed with Firebase"
+            }
+        ],
+        "technologies": [
+            {
+                "id": "01",
+                "tech": "ReactJS"
+            },
+            {
+                "id": "02",
+                "tech": "React-router-dom"
+            },
+            {
+                "id": "03",
+                "tech": "Tailwind"
+            },
+            {
+                "id": "04",
+                "tech": "DaisyUI"
+            },
+            {
+                "id": "05",
+                "tech": "ES6"
+            },
+            {
+                "id": "06",
+                "tech": "Firebase"
+            },
+            {
+                "id": "07",
+                "tech": "Jwt"
+            },
+            {
+                "id": "08",
+                "tech": "MongoDB"
+            },
+            {
+                "id": "09",
+                "tech": "NodeJS"
+            },
+            {
+                "id": "10",
+                "tech": "Express"
+            },
+            {
+                "id": "11",
+                "tech": "Github"
+            },
+            {
+                "id": "12",
+                "tech": "Tanstack-query"
+            },
+            {
+                "id": "14",
+                "tech": "Axios"
+            },
+            {
+                "id": "15",
+                "tech": "Stripe"
+            },
+            {
+                "id": "16",
+                "tech": "Swiperjs"
+            },
+            {
+                "id": "17",
+                "tech": "Aos animation"
+            }
+        ],
+        "siteLink": "https://recycle-hub-e5949.web.app/",
+        "clientLink": "https://github.com/MdNaimRipto/Recycle-hub-client",
+        "serverLink": "https://github.com/MdNaimRipto/Recycle-hub-server"
+    },
+    {
+        "id": "2",
+        "name": "The Foodie Express",
+        "projectFor": "Mern-Stack Project",
+        "screenshots": [
+            {
+                "id": "01",
+                "img": "https://i.ibb.co/28cGrR2/foodie-express-ss1.png"
+            },
+            {
+                "id": "02",
+                "img": "https://i.ibb.co/7zkd27X/foodie-express-ss2.png"
+            },
+            {
+                "id": "03",
+                "img": "https://i.ibb.co/dJq0Cf0/foodie-express-ss3.png"
+            }
+        ],
+        "details": [
+            {
+                "id": "01",
+                "feature": "Design completed with TailwindCSS and Flowbite."
+            },
+            {
+                "id": "02",
+                "feature": "Routing completed with React-router-dom"
+            },
+            {
+                "id": "03",
+                "feature": "User can add and delete review, implemented with MongoDB"
+            },
+            {
+                "id": "04",
+                "feature": "My Review section secured with JWT Token"
+            },
+            {
+                "id": "05",
+                "feature": "Authentication completed with Firebase"
+            }
+        ],
+        "technologies": [
+            {
+                "id": "01",
+                "tech": "ReactJS"
+            },
+            {
+                "id": "02",
+                "tech": "React-router-dom"
+            },
+            {
+                "id": "03",
+                "tech": "Tailwind"
+            },
+            {
+                "id": "04",
+                "tech": "Flowbite"
+            },
+            {
+                "id": "05",
+                "tech": "React-photo-view"
+            },
+            {
+                "id": "06",
+                "tech": "Firebase"
+            },
+            {
+                "id": "07",
+                "tech": "Jwt"
+            },
+            {
+                "id": "08",
+                "tech": "ES6"
+            },
+            {
+                "id": "09",
+                "tech": "MongoDB"
+            },
+            {
+                "id": "10",
+                "tech": "NodeJS"
+            },
+            {
+                "id": "11",
+                "tech": "Express"
+            },
+            {
+                "id": "12",
+                "tech": "Github"
+            }
+        ],
+        "siteLink": "https://the-foodie-express.firebaseapp.com/",
+        "clientLink": "https://github.com/MdNaimRipto/the-foodie-express-client",
+        "serverLink": "https://github.com/MdNaimRipto/the-foodie-express-server"
+    },
+    {
+        "id": "3",
+        "name": "Learn Programming",
+        "projectFor": "Full-Stack Project",
+        "screenshots": [
+            {
+                "id": "01",
+                "img": "https://i.ibb.co/Qf1NM9r/learn-programming-ss1.png"
+            },
+            {
+                "id": "02",
+                "img": "https://i.ibb.co/kQYp4LQ/learn-programming-ss2.png"
+            },
+            {
+                "id": "03",
+                "img": "https://i.ibb.co/PwFDjQj/learn-programming-ss3.png"
+            }
+        ],
+        "details": [
+            {
+                "id": "01",
+                "feature": "Design completed with TailwindCSS and Flowbite."
+            },
+            {
+                "id": "02",
+                "feature": "Routing completed with React-router-dom"
+            },
+            {
+                "id": "03",
+                "feature": "User can review course details and can download details as a pdf."
+            },
+            {
+                "id": "04",
+                "feature": "For premium access user must have to login."
+            },
+            {
+                "id": "05",
+                "feature": "Authentication completed with Firebase"
+            }
+        ],
+        "technologies": [
+            {
+                "id": "01",
+                "tech": "ReactJS"
+            },
+            {
+                "id": "02",
+                "tech": "React-router-dom"
+            },
+            {
+                "id": "03",
+                "tech": "Tailwind"
+            },
+            {
+                "id": "04",
+                "tech": "Flowbite"
+            },
+            {
+                "id": "05",
+                "tech": "React-to-pdf"
+            },
+            {
+                "id": "06",
+                "tech": "Firebase"
+            },
+            {
+                "id": "07",
+                "tech": "ES6"
+            },
+            {
+                "id": "08",
+                "tech": "NodeJS"
+            },
+            {
+                "id": "09",
+                "tech": "Express"
+            },
+            {
+                "id": "10",
+                "tech": "Github"
+            }
+        ],
+        "siteLink": "https://learn-programming-96a3d.web.app/",
+        "clientLink": "https://github.com/MdNaimRipto/Learn-programming-client",
+        "serverLink": "https://github.com/MdNaimRipto/Learn-programming-server"
+    },
+    {
+        "id": "4",
+        "name": "Fitness Club",
+        "projectFor": "Front-end ReactJS Project",
+        "screenshots": [
+            {
+                "id": "01",
+                "img": "https://i.ibb.co/xGH8R4d/fitness-club-ss1.png"
+            },
+            {
+                "id": "02",
+                "img": "https://i.ibb.co/Cvd3Skh/fitness-club-ss2.png"
+            },
+            {
+                "id": "03",
+                "img": "https://i.ibb.co/zJvLL3b/fitness-club-ss3.png"
+            }
+        ],
+        "details": [
+            {
+                "id": "01",
+                "feature": "Design completed with Vanilla CSS."
+            },
+            {
+                "id": "02",
+                "feature": "User can add multiple exercise in the list."
+            },
+            {
+                "id": "03",
+                "feature": "The exercise time will increase for per click on the add to list."
+            },
+            {
+                "id": "04",
+                "feature": "The break time are stored and loaded from Local-storage."
+            },
+            {
+                "id": "05",
+                "feature": "After clicking the Activity Completed a Toast will popup."
+            }
+        ],
+        "technologies": [
+            {
+                "id": "01",
+                "tech": "ReactJS"
+            },
+            {
+                "id": "02",
+                "tech": "Tailwind"
+            },
+            {
+                "id": "03",
+                "tech": "React-toastify"
+            },
+            {
+                "id": "04",
+                "tech": "ES6"
+            },
+            {
+                "id": "05",
+                "tech": "Github"
+            }
+        ],
+        "siteLink": "https://fitness-club-co.netlify.app/",
+        "clientLink": "https://github.com/MdNaimRipto/Fitness-club-repo"
+    }
+]
